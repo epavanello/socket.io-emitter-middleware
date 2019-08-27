@@ -39,3 +39,9 @@ const action = {
 * `socket.channel` define the socket.io channel to use to emit the action.
 * `socket.namespace` (optional) use the given namespace, instead of the default, to emit the action.
 * `socket.room` (optional) emit the action to the given room, instead of a global broadcast.
+
+## Installation
+
+```
+npm i socket.io-emitter-middleware
+```
